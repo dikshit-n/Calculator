@@ -1,0 +1,41 @@
+.design{
+    /* position:relative;
+    left:150px;
+    top:300px; */
+    width:650px;
+    height:650px;
+    background-color:grey;
+    border:10px ridge #595959;
+    box-shadow:0 0 5px #999999;
+    margin: 5px auto;
+  }
+  #size{
+    font-size:2em;
+    width:67%;
+    height:45px;
+    margin:50px 50px;
+    border-radius:8px;
+  }
+  button{
+    width:115px;
+    height:115px;
+    font-size:2em;
+    border-radius:20%;
+    box-shadow:0 0 5px black;
+  }
+  #OK{
+    position:relative;
+    right:25px;
+    font-size:2em;
+    height:50px;
+    width:60px;
+
+  }
+  .space{
+    margin-left:45px;
+  }
+header{
+  font-size: 2em;
+  text-align:center;
+  margin:5px auto;
+}
